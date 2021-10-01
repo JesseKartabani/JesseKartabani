@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend engineer from Sydney Australia</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
